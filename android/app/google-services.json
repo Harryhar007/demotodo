@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723055122752",
+    "project_id": "demotodo-softareo",
+    "storage_bucket": "demotodo-softareo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723055122752:android:0565e1598d4f61f69742a5",
+        "android_client_info": {
+          "package_name": "com.softareo.demotodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723055122752-t406f35afqhgnhp1djbnntmavap0safc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5CxaajynOJNpiyokk3EYa7C1o0QzOBhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723055122752-t406f35afqhgnhp1djbnntmavap0safc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
